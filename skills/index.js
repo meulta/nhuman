@@ -1,0 +1,9 @@
+module.exports.AwesomeNewFeature = require('./AwesomeNewFeature.js');
+module.exports.Code = require('./Code.js');
+module.exports.KungFu = require('./KungFu.js');
+module.exports.LeSexyTime = require('./LeSexyTime.js');
+module.exports.Math = require('./Math.js');
+module.exports.Mozart = require('./Mozart.js');
+module.exports.Talk = require('./Talk.js');
+module.exports.UnderstandWomen = require('./UnderstandWomen.js');
+module.exports.Walk = require('./Walk.js');

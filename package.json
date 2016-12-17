@@ -1,0 +1,24 @@
+{
+  "name": "brainjs",
+  "version": "0.4.0",
+  "description": "A JS framework for your head",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meulta/nhuman.git"
+  },
+  "author": "Doug",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meulta/nhuman/issues"
+  },
+  "homepage": "https://github.com/meulta/nhuman#readme",
+  "dependencies": {
+    "babylonjs": "^2.5.0",
+    "express": "^4.14.0",
+    "webaudio": "^2.0.0"
+  }
+}
