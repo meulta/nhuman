@@ -1,9 +1,3 @@
-# nhuman
+# BrainJS
 
-**Really?** 
-
-You went here?
-
-;)
-
-I will accept pull requests if you want to create a Human Brain code!
+A JS framework for your head
